@@ -2,7 +2,7 @@
 
 # Russian Roulette
 
-This is a simple CLI single-player Russian roulette game developed in Python and inspired by Squid Game.
+This is a simple CLI single-player Russian roulette game developed in Python and inspired by the Squid Game.
 
 ## Setup
 > [!NOTE]  
