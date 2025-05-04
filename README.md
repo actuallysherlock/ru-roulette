@@ -1,5 +1,3 @@
-![HelloSirSquidGameSeason2GIF](https://github.com/user-attachments/assets/19fd2b7d-8978-4e2e-aa9b-6435526c7fc3)
-
 # Russian Roulette
 
 This is a simple CLI single-player Russian roulette game developed in Python and inspired by the Squid Game.
